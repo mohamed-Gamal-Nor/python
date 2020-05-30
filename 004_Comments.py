@@ -21,3 +21,9 @@ Multiple
 Line
 Comments
 """
+a = 4
+b = 3
+print(f"{a//b}\n {a/b} ")
+print(range(5))
+for i in range(5):
+    print(i**2)
